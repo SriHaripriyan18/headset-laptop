@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg {
+    background-color: white;
+}
+
+.he {
+    color: #183b56;
+    font-size: 46px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.card {
+    background-image: url("https://wallpapercave.com/wp/wp7442980.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    width: 930px;
+    height: 500px;
+}
+
+.sm {
+    font-size: 48px;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.p {
+    font-size: 30px;
+    color: white;
+    font-family: Roboto;
+}
+
+.custom-button {
+    color: #d0b200;
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    width: 130px;
+    height: 45px;
+    font-weight: bold;
+
+}
+
+.per {
+    font-weight: bold;
+}
+
+.get {
+    font-size: 24px;
+}
+
+.get1 {
+    font-size: 24px;
+}
+
+.card1 {
+    background-image: url("https://wallpapercave.com/wp/wp4297894.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    width: 930px;
+    height: 500px;
+}
+
+.men {
+    color: #ff9f00;
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+}
